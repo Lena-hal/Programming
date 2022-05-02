@@ -24,7 +24,7 @@ int main() {
 		std::cout << pexeso[karta1] << "\n\nzadej 2. kartu:\n";
 		std::cin >> karta2;
 		std::cout << pexeso[karta2] << "\n";
-		if (pexeso[karta1] == pexeso[karta2] && pexeso[karta1] != ' ') {
+		if (pexeso[karta1] == pexeso[karta2] && pexeso[karta1] != ' '&& karta1 != karta2) {
 			pary--;
 			pexeso[karta1] = ' ';
 			pexeso[karta2] = ' ';
