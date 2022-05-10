@@ -40,7 +40,10 @@ int main(){
 	printf("BEEP!");
 	//ExitWindows(0,1);
 	
-	Beep(1000,10000);
+	Beep(523,100);
+	Beep(391,100);
+	Beep(329,100);
+	Beep(261,200);
 	getchar();getchar();
 	
 }
