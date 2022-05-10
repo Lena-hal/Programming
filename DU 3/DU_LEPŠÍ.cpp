@@ -7,7 +7,7 @@ void indent(int znak){
 	for (int j=0;  j<9; j++){
 		printf("\n");
 		}
-	for (int i=0;  i<19-znak; i++){
+	for (int i=0;  i<20-znak; i++){
 	printf(" ");
 	}
 }
