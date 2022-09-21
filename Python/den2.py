@@ -1,0 +1,1 @@
+print(int(input("zadej čislo\n"))*2)
