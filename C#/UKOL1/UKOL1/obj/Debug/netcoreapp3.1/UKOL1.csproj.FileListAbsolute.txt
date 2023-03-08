@@ -1,0 +1,14 @@
+C:\Users\st024671\source\repos\UKOL1\UKOL1\bin\Debug\netcoreapp3.1\UKOL1.exe
+C:\Users\st024671\source\repos\UKOL1\UKOL1\bin\Debug\netcoreapp3.1\UKOL1.deps.json
+C:\Users\st024671\source\repos\UKOL1\UKOL1\bin\Debug\netcoreapp3.1\UKOL1.runtimeconfig.json
+C:\Users\st024671\source\repos\UKOL1\UKOL1\bin\Debug\netcoreapp3.1\UKOL1.runtimeconfig.dev.json
+C:\Users\st024671\source\repos\UKOL1\UKOL1\bin\Debug\netcoreapp3.1\UKOL1.dll
+C:\Users\st024671\source\repos\UKOL1\UKOL1\bin\Debug\netcoreapp3.1\UKOL1.pdb
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.csproj.AssemblyReference.cache
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.AssemblyInfoInputs.cache
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.AssemblyInfo.cs
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.csproj.CoreCompileInputs.cache
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.dll
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.pdb
+C:\Users\st024671\source\repos\UKOL1\UKOL1\obj\Debug\netcoreapp3.1\UKOL1.genruntimeconfig.cache

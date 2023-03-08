@@ -1,0 +1,13 @@
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\bin\Debug\netcoreapp3.1\Ctverecek.exe
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\bin\Debug\netcoreapp3.1\Ctverecek.deps.json
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\bin\Debug\netcoreapp3.1\Ctverecek.runtimeconfig.json
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\bin\Debug\netcoreapp3.1\Ctverecek.runtimeconfig.dev.json
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\bin\Debug\netcoreapp3.1\Ctverecek.dll
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\bin\Debug\netcoreapp3.1\Ctverecek.pdb
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\obj\Debug\netcoreapp3.1\Ctverecek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\obj\Debug\netcoreapp3.1\Ctverecek.AssemblyInfoInputs.cache
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\obj\Debug\netcoreapp3.1\Ctverecek.AssemblyInfo.cs
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\obj\Debug\netcoreapp3.1\Ctverecek.csproj.CoreCompileInputs.cache
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\obj\Debug\netcoreapp3.1\Ctverecek.dll
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\obj\Debug\netcoreapp3.1\Ctverecek.pdb
+C:\Users\st024671\source\repos\Ctverecek\Ctverecek\obj\Debug\netcoreapp3.1\Ctverecek.genruntimeconfig.cache
