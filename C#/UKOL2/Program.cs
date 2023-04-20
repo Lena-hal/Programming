@@ -46,9 +46,11 @@ namespace UKOL2
             menu.newItem("test1",ConsoleColor.Magenta);
             menu.newItem("test2d dasdas");
             menu.newItem("test3");
+            menu.newItem("Tvoje Máma",ConsoleColor.Green);
             menu.items[0].Aligment = Aligment.Left;
             menu.items[1].Aligment = Aligment.Center;
             menu.items[2].Aligment = Aligment.Right;
+            menu.items[3].Aligment = Aligment.Center;
 
             while (menu.menuOnline)
             {
