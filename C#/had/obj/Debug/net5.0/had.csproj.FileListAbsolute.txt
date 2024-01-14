@@ -1,0 +1,16 @@
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\bin\Debug\net5.0\had.exe
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\bin\Debug\net5.0\had.deps.json
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\bin\Debug\net5.0\had.runtimeconfig.json
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\bin\Debug\net5.0\had.runtimeconfig.dev.json
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\bin\Debug\net5.0\had.dll
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\bin\Debug\net5.0\had.pdb
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.csproj.AssemblyReference.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.AssemblyInfoInputs.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.AssemblyInfo.cs
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.csproj.CoreCompileInputs.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.dll
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\refint\had.dll
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.pdb
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\had.genruntimeconfig.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\had\obj\Debug\net5.0\ref\had.dll

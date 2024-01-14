@@ -1,0 +1,16 @@
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\bin\Debug\net5.0\kalkulacka.exe
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\bin\Debug\net5.0\kalkulacka.deps.json
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\bin\Debug\net5.0\kalkulacka.runtimeconfig.json
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\bin\Debug\net5.0\kalkulacka.runtimeconfig.dev.json
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\bin\Debug\net5.0\kalkulacka.dll
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\bin\Debug\net5.0\kalkulacka.pdb
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.csproj.AssemblyReference.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.AssemblyInfoInputs.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.AssemblyInfo.cs
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.dll
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\refint\kalkulacka.dll
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.pdb
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\kalkulacka.genruntimeconfig.cache
+C:\Users\oldah\Desktop\programovani\python\programovani\C#\kalkulacka\obj\Debug\net5.0\ref\kalkulacka.dll
